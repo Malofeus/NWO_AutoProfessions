@@ -1,0 +1,39 @@
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\bin\Debug\NWO_AutoProfessions.exe
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\bin\Debug\NWO_AutoProfessions.pdb
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_AutoProfession_Form1.resources
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.Properties.Resources.resources
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.csproj.GenerateResource.Cache
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.exe
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.pdb
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_Config.resources
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionsConfig.resources
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.exe
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.pdb
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.exe
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.pdb
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_AutoProfession_Form1.resources
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_Config.resources
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionsConfig.resources
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.Properties.Resources.resources
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.csproj.GenerateResource.Cache
+E:\NWO_AutoProfessions\NWO_AutoProfessions\bin\Debug\NWO_AutoProfessions.exe
+E:\NWO_AutoProfessions\NWO_AutoProfessions\bin\Debug\NWO_AutoProfessions.pdb
+I:\NWO_AutoProfessions\NWO_AutoProfessions\bin\Debug\NWO_AutoProfessions.exe
+I:\NWO_AutoProfessions\NWO_AutoProfessions\bin\Debug\NWO_AutoProfessions.pdb
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.csprojResolveAssemblyReference.cache
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_AutoProfession_Form1.resources
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_Config.resources
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionsConfig.resources
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.Properties.Resources.resources
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.csproj.GenerateResource.Cache
+C:\development\Test Projects\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.csprojResolveAssemblyReference.cache
+E:\NWO_AutoProfession\NWO_AutoProfessions.exe
+E:\NWO_AutoProfession\NWO_AutoProfessions.pdb
+E:\NWO_AutoProfession\NWO_AutoProfessions.exe.config
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionLeveling_ProfessionSelectConfig.resources
+E:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionLeveling_TasksConfig.resources
+I:\NWO_AutoProfession\NWO_AutoProfessions.exe.config
+I:\NWO_AutoProfession\NWO_AutoProfessions.exe
+I:\NWO_AutoProfession\NWO_AutoProfessions.pdb
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionLeveling_ProfessionSelectConfig.resources
+I:\NWO_AutoProfessions\NWO_AutoProfessions\obj\x86\Debug\NWO_AutoProfessions.NWO_ProfessionLeveling_TasksConfig.resources
